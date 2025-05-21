@@ -42,7 +42,7 @@ export default function Navbar() {
                 )
               })
             }
-            <button className='p-2 rounded-lg text-primary hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer'>
+            <button className='p-2 rounded-lg text-white hover:text-primary hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors cursor-pointer'>
               {
                 theme === "dark" ? (
                   <SunIcon  className='w-5 h-5'/>
