@@ -186,8 +186,8 @@ export default function About() {
              <p className='text-secondary'>Graduated with Honors. <br/> Focused on Sofware Engineering and Devops </p>
            </div>
            <div className='bg-white dark:bg-dark/50 p-6 rounded-lg shadow-md'>
-             <h3 className='text-xl font-semibold mb-2'>Bachelor of Science in Public Health</h3>
-             <p className='text-primary mb-2'>Technical University of Kenya * June 2019 - November 2024</p>
+             <h3 className='text-xl font-semibold mb-2'>Bachelor of Science in Chemical Engineering</h3>
+             <p className='text-primary mb-2'>Technical University of Kenya * June 2019 - November 2025</p>
              <p className='text-secondary'>Graduated with a First Class Honors. <br/> </p>           </div>      </div>
           </motion.div>
         </motion.div>

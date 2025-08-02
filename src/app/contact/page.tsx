@@ -89,7 +89,7 @@ export default function Contact() {
               <div>
                 <h3 className="font-semibold">Email</h3>
                 <a href="mailto:mj.mwangijoseph@gmail.com" className="text-secondary hover:text-primary">
-                  mj.mwangijoseph@gmail.com
+                  simonnjoroge@gmail.com
                 </a>
               </div>
             </motion.div>
@@ -104,7 +104,7 @@ export default function Contact() {
               <div>
                 <h3 className="font-semibold">Phone</h3>
                 <a href="tel:+254705045861" className="text-secondary hover:text-primary">
-                  +254 705 045 861
+                  +254 712 579 125
                 </a>
               </div>
             </motion.div>

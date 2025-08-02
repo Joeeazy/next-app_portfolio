@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Joseph Mwangi",
+  title: "Simon Njoroge",
   description: "Portfolio Web app",
 };
 
